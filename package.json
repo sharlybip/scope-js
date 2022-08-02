@@ -1,0 +1,19 @@
+{
+  "name": "scope",
+  "version": "1.0.0",
+  "description": "clousures  y scope en Javascript Ya en el pasado hemos visto un curso de scope pero, esta es la actualización  Podrás ver el link de como queda el proyecto mas abajo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharlybip/scope-js.git"
+  },
+  "author": "carlos dominguez <sharlybip@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sharlybip/scope-js/issues"
+  },
+  "homepage": "https://github.com/sharlybip/scope-js#readme"
+}
